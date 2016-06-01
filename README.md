@@ -69,6 +69,10 @@
 - すぐ聞ける
 - 教えられる人を増やす
 
+## オープンソースソフトウェアポリシー
+
+作りたい。
+
 ## 参考
 
 - http://www.buildinsider.net/enterprise/devops/01
