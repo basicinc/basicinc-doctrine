@@ -1,4 +1,4 @@
-** work in progress **
+**work in progress**
 
 # 開発文化・基本理念
 
