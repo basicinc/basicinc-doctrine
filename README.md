@@ -76,4 +76,4 @@
 ## 参考
 
 - http://www.buildinsider.net/enterprise/devops/01
-- 
+- http://techlife.cookpad.com/entry/oss-policy
